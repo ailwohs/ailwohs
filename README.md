@@ -10,12 +10,6 @@
 </div>
 
 
-(https://github-readme-activity-graph.cyclic.app/graph?username=ailwohs&bg_color=0d1117&color=80b3ff&line=b31aff&point=4dffff&area=true&hide_border=true)
-
-
-
-
-
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0080ff&height=120&section=footer"/>
