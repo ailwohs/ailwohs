@@ -10,9 +10,7 @@
 </div>
 
 
-
-[](https://github-readme-activity-graph.cyclic.app/graph?username=ailwohs&bg_color=0d1117&color=80b3ff&line=b31aff&point=4dffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+(https://github-readme-activity-graph.cyclic.app/graph?username=ailwohs&bg_color=0d1117&color=80b3ff&line=b31aff&point=4dffff&area=true&hide_border=true)
 
 
 
