@@ -51,6 +51,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ailwohs&hide=contribs,prs)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ailwohs&hide=contribs,prs)
 
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ailwohs&bg_color=0d1117&color=80b3ff&line=b31aff&point=4dffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 LETREIRO ESCRITO HELLO, É A JULIA
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b3ccff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+é+a+Julha+:%29)](https://git.io/typing-svg)
