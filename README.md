@@ -6,7 +6,6 @@
 <div>
   <a href="https://github.com/ailwohs">
     <img style="margin-right: 10px;" height="180em" src="https://github-readme-stats.vercel.app/api?username=ailwohs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ailwohs&hide_progress=true)
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailwohs&layout=compact&langs_count=16&theme=dracula"/>
   </a>
 </div>
