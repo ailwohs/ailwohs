@@ -18,7 +18,6 @@
   <img align="center" alt="Iasmin-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Iasmin-Cpp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Iasmin-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Iasmin-gif" height="120" width="120" src="https://cdn.discordapp.com/attachments/1083499047031165060/1210652503029452841/hello-gif.gif?ex=65eb5701&is=65d8e201&hm=f1285a8214cba4a7766cfcee1a72165e4e64b6b471d74ffbc385a2b6f2d6e49b&">
 </div>
 
 
