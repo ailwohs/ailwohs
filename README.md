@@ -3,10 +3,10 @@
 
 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ailwohs&show_icons=true&count_private=true&hide_border=true&title_color=4d88ff&icon_color=d966ff&text_color=66ffcc&bg_color=0d1117" alt="Julia github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailwohs&layout=compact&hide_border=true&title_color=4d88ff&text_color=66ffcc&bg_color=0d1117" />
-  
+<div>
+  <a href= "https://github.com/IasminFT">
+  <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=ailwohs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailwohs&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 
