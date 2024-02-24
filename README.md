@@ -1,12 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0080ff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#FFC0CB&height=120&section=header"/>
 
 
 
 
 <div>
-  <a href= "https://github.com/ailwohs">
-  <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=ailwohs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailwohs&layout=compact&langs_count=16&theme=dracula"/>
+  <a href="https://github.com/ailwohs">
+    <img style="margin-right: 10px;" height="180em" src="https://github-readme-stats.vercel.app/api?username=ailwohs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailwohs&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
 </div>
 
 
