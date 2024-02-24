@@ -6,8 +6,19 @@
 <div>
   <a href="https://github.com/ailwohs">
     <img style="margin-right: 10px;" height="180em" src="https://github-readme-stats.vercel.app/api?username=ailwohs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailwohs&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailwohs&layout=compact&langs_count=4&theme=dracula"/>
   </a>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Iasmin-Cpp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Iasmin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Iasmin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Iasmin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Iasmin-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Iasmin-Cpp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Iasmin-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Iasmin-gif" height="120" width="120" src="https://cdn.discordapp.com/attachments/1083499047031165060/1210652503029452841/hello-gif.gif?ex=65eb5701&is=65d8e201&hm=f1285a8214cba4a7766cfcee1a72165e4e64b6b471d74ffbc385a2b6f2d6e49b&">
 </div>
 
 
