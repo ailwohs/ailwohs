@@ -1,8 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFAFA&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+WORLD)](https://git.io/typing-svg)
-
-
+<h1 align="center">Hi, I'm Julha Leithold</h1> 
 
 <!-- <div>
   <a href="https://github.com/ailwohs">
@@ -16,6 +14,8 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ailwohs&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Julha github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailwohs&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
+
+<img height="100px" src="https://cdn.discordapp.com/attachments/925869915825655870/1285053572102357096/818ce04e67b6735edbc200a717c5fa-unscreen.gif?ex=66e8dee6&is=66e78d66&hm=fa168b55d95301af664af5c67697df82839e5de24eed62f5e65e1eae3c8da175&"> <img height="100px" src="https://cdn.discordapp.com/attachments/925869915825655870/1285053572102357096/818ce04e67b6735edbc200a717c5fa-unscreen.gif?ex=66e8dee6&is=66e78d66&hm=fa168b55d95301af664af5c67697df82839e5de24eed62f5e65e1eae3c8da175&"> <img height="100px" src="https://cdn.discordapp.com/attachments/925869915825655870/1285053572102357096/818ce04e67b6735edbc200a717c5fa-unscreen.gif?ex=66e8dee6&is=66e78d66&hm=fa168b55d95301af664af5c67697df82839e5de24eed62f5e65e1eae3c8da175&"> <img height="100px" src="https://cdn.discordapp.com/attachments/925869915825655870/1285053572102357096/818ce04e67b6735edbc200a717c5fa-unscreen.gif?ex=66e8dee6&is=66e78d66&hm=fa168b55d95301af664af5c67697df82839e5de24eed62f5e65e1eae3c8da175&"> <img height="100px" src="https://cdn.discordapp.com/attachments/925869915825655870/1285053572102357096/818ce04e67b6735edbc200a717c5fa-unscreen.gif?ex=66e8dee6&is=66e78d66&hm=fa168b55d95301af664af5c67697df82839e5de24eed62f5e65e1eae3c8da175&"> <img height="100px" src="https://cdn.discordapp.com/attachments/925869915825655870/1285053572102357096/818ce04e67b6735edbc200a717c5fa-unscreen.gif?ex=66e8dee6&is=66e78d66&hm=fa168b55d95301af664af5c67697df82839e5de24eed62f5e65e1eae3c8da175&"> <img height="100px" src="https://cdn.discordapp.com/attachments/925869915825655870/1285053572102357096/818ce04e67b6735edbc200a717c5fa-unscreen.gif?ex=66e8dee6&is=66e78d66&hm=fa168b55d95301af664af5c67697df82839e5de24eed62f5e65e1eae3c8da175&"> <img height="100px" src="https://cdn.discordapp.com/attachments/925869915825655870/1285053572102357096/818ce04e67b6735edbc200a717c5fa-unscreen.gif?ex=66e8dee6&is=66e78d66&hm=fa168b55d95301af664af5c67697df82839e5de24eed62f5e65e1eae3c8da175&"> <img height="100px" src="https://cdn.discordapp.com/attachments/925869915825655870/1285053572102357096/818ce04e67b6735edbc200a717c5fa-unscreen.gif?ex=66e8dee6&is=66e78d66&hm=fa168b55d95301af664af5c67697df82839e5de24eed62f5e65e1eae3c8da175&"> 
 
 
 
