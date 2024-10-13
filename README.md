@@ -15,7 +15,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailwohs&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
-<img height="100px" src="https://cdn.discordapp.com/attachments/925869915825655870/1285053572102357096/818ce04e67b6735edbc200a717c5fa-unscreen.gif?ex=66e8dee6&is=66e78d66&hm=fa168b55d95301af664af5c67697df82839e5de24eed62f5e65e1eae3c8da175&"> <img height="100px" src="https://cdn.discordapp.com/attachments/925869915825655870/1285053572102357096/818ce04e67b6735edbc200a717c5fa-unscreen.gif?ex=66e8dee6&is=66e78d66&hm=fa168b55d95301af664af5c67697df82839e5de24eed62f5e65e1eae3c8da175&"> <img height="100px" src="https://cdn.discordapp.com/attachments/925869915825655870/1285053572102357096/818ce04e67b6735edbc200a717c5fa-unscreen.gif?ex=66e8dee6&is=66e78d66&hm=fa168b55d95301af664af5c67697df82839e5de24eed62f5e65e1eae3c8da175&"> <img height="100px" src="https://cdn.discordapp.com/attachments/925869915825655870/1285053572102357096/818ce04e67b6735edbc200a717c5fa-unscreen.gif?ex=66e8dee6&is=66e78d66&hm=fa168b55d95301af664af5c67697df82839e5de24eed62f5e65e1eae3c8da175&"> <img height="100px" src="https://cdn.discordapp.com/attachments/925869915825655870/1285053572102357096/818ce04e67b6735edbc200a717c5fa-unscreen.gif?ex=66e8dee6&is=66e78d66&hm=fa168b55d95301af664af5c67697df82839e5de24eed62f5e65e1eae3c8da175&"> <img height="100px" src="https://cdn.discordapp.com/attachments/925869915825655870/1285053572102357096/818ce04e67b6735edbc200a717c5fa-unscreen.gif?ex=66e8dee6&is=66e78d66&hm=fa168b55d95301af664af5c67697df82839e5de24eed62f5e65e1eae3c8da175&"> <img height="100px" src="https://cdn.discordapp.com/attachments/925869915825655870/1285053572102357096/818ce04e67b6735edbc200a717c5fa-unscreen.gif?ex=66e8dee6&is=66e78d66&hm=fa168b55d95301af664af5c67697df82839e5de24eed62f5e65e1eae3c8da175&"> <img height="100px" src="https://cdn.discordapp.com/attachments/925869915825655870/1285053572102357096/818ce04e67b6735edbc200a717c5fa-unscreen.gif?ex=66e8dee6&is=66e78d66&hm=fa168b55d95301af664af5c67697df82839e5de24eed62f5e65e1eae3c8da175&"> 
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ailwohs&bg_color=0d1117&color=ff91a4&line=ff91a4&point=ff91a4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
@@ -24,9 +24,6 @@
 </p>
 
 
-![Snake animation](https://github.com/betafontes/betafontes/blob/output/github-contribution-grid-snake.svg)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ailwohs&bg_color=0d1117&color=ff91a4&line=ff91a4&point=ff91a4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
@@ -64,11 +61,16 @@
 
 COBRINHAAA  ![Snake animation](https://github.com/betafontes/betafontes/blob/output/github-contribution-grid-snake.svg)
 
+<img height="100px" src="https://cdn.discordapp.com/attachments/925869915825655870/1285053572102357096/818ce04e67b6735edbc200a717c5fa-unscreen.gif?ex=66e8dee6&is=66e78d66&hm=fa168b55d95301af664af5c67697df82839e5de24eed62f5e65e1eae3c8da175&"> <img height="100px" src="https://cdn.discordapp.com/attachments/925869915825655870/1285053572102357096/818ce04e67b6735edbc200a717c5fa-unscreen.gif?ex=66e8dee6&is=66e78d66&hm=fa168b55d95301af664af5c67697df82839e5de24eed62f5e65e1eae3c8da175&"> <img height="100px" src="https://cdn.discordapp.com/attachments/925869915825655870/1285053572102357096/818ce04e67b6735edbc200a717c5fa-unscreen.gif?ex=66e8dee6&is=66e78d66&hm=fa168b55d95301af664af5c67697df82839e5de24eed62f5e65e1eae3c8da175&"> <img height="100px" src="https://cdn.discordapp.com/attachments/925869915825655870/1285053572102357096/818ce04e67b6735edbc200a717c5fa-unscreen.gif?ex=66e8dee6&is=66e78d66&hm=fa168b55d95301af664af5c67697df82839e5de24eed62f5e65e1eae3c8da175&"> <img height="100px" src="https://cdn.discordapp.com/attachments/925869915825655870/1285053572102357096/818ce04e67b6735edbc200a717c5fa-unscreen.gif?ex=66e8dee6&is=66e78d66&hm=fa168b55d95301af664af5c67697df82839e5de24eed62f5e65e1eae3c8da175&"> <img height="100px" src="https://cdn.discordapp.com/attachments/925869915825655870/1285053572102357096/818ce04e67b6735edbc200a717c5fa-unscreen.gif?ex=66e8dee6&is=66e78d66&hm=fa168b55d95301af664af5c67697df82839e5de24eed62f5e65e1eae3c8da175&"> <img height="100px" src="https://cdn.discordapp.com/attachments/925869915825655870/1285053572102357096/818ce04e67b6735edbc200a717c5fa-unscreen.gif?ex=66e8dee6&is=66e78d66&hm=fa168b55d95301af664af5c67697df82839e5de24eed62f5e65e1eae3c8da175&"> <img height="100px" src="https://cdn.discordapp.com/attachments/925869915825655870/1285053572102357096/818ce04e67b6735edbc200a717c5fa-unscreen.gif?ex=66e8dee6&is=66e78d66&hm=fa168b55d95301af664af5c67697df82839e5de24eed62f5e65e1eae3c8da175&">
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ailwohs&bg_color=0d1117&color=80b3ff&line=b31aff&point=4dffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 LETREIRO ESCRITO HELLO, É A JULIA
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b3ccff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+é+a+Julha+:%29)](https://git.io/typing-svg)
+
+![Snake animation](https://github.com/betafontes/betafontes/blob/output/github-contribution-grid-snake.svg)
+
+
 
                                                   AZUL BONITINHO 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
