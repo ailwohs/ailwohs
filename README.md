@@ -36,7 +36,7 @@
   <img align="right" height="150em" alt="Hello Kitty" src="https://media.giphy.com/media/kZqbBT64ECtjy/giphy.gif">
 </div>
 
-<p align="">Minhas Skills</p> 
+<p color="FFC0CB">Minhas Skills</p> 
 
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![Julia](https://img.shields.io/badge/-Julia-0D1117?style=for-the-badge&logo=julia&labelColor=0D1117)&nbsp;
