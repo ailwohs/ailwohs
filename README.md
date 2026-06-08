@@ -36,7 +36,7 @@
   <img align="right" height="150em" alt="Hello Kitty" src="https://media.giphy.com/media/kZqbBT64ECtjy/giphy.gif">
 </div>
 
-<br>
+</br>
 
 <h1 color="FFC0CB" >Minhas Skills</h1> 
 
