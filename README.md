@@ -80,7 +80,13 @@
 
 
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=120&section=header"/>
 
+<div align="center">
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAi/hello-kitty.gif" width="180px">
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=120&section=footer"/>
 
 
 
