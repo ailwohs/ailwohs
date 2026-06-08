@@ -60,9 +60,12 @@
 
 
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=120&section=header"/>
+
 <div align="center">
-  <img width="100%" src="https://media.tenor.com/7M2W4l6Q4mAAAAAi/hello-kitty-hello.gif">
+  <img width="250px" src="https://media.tenor.com/7M2W4l6Q4mAAAAAi/hello-kitty-hello.gif">
 </div>
+
 
 ###
 
