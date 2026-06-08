@@ -80,10 +80,27 @@
 
 
 
+<div align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=ailwohs&show_icons=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117"
+    alt="GitHub Stats"
+  />
+
+  <img
+    width="41%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailwohs&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117"
+    alt="Top Languages"
+  />
+</div>
 
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b3ccff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+é+a+Julha+:%29)](https://git.io/typing-svg)
+
+
+
+
+
 
 
 
