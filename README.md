@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=120&section=header"/>
 
 <h1 align="center">Hi, I'm Julha Leithold</h1> 
 
@@ -59,6 +59,11 @@
 </div>
 
 
+
+<div align="center">
+  <img width="100%" src="https://media.tenor.com/7M2W4l6Q4mAAAAAi/hello-kitty-hello.gif">
+</div>
+
 ###
 
 <!-- !PCMAN  !-->
@@ -75,18 +80,11 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
-
-
-
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=120&section=header"/>
-
-<div align="center">
-  <img src="https://media.tenor.com/2roX3uxz_68AAAAi/hello-kitty.gif" width="180px">
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=120&section=footer"/>
+
+
+
+
 
 
 
