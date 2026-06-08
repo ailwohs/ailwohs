@@ -61,7 +61,7 @@
 ###
 
 <div>
-  <img align="right" height="150em" alt="hellokitty" src="https://images-ext-1.discordapp.net/external/xvMDSQ5-SSS5ETWTTABekz8Y2FZXImnaW8N3vdW_lIc/https/gifdb.com/images/high/sasuke-eternal-sharingan-rlf5nrllu25m0bvv.gif?width=842&height=473](https://giphy.com/gifs/hello-kitty-cute-kZqbBT64ECtjy)">
+  <img align="right" height="200em" alt="Hello Kitty" src="https://media.giphy.com/media/kZqbBT64ECtjy/giphy.gif">
 </div>
 
 ###
