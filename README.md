@@ -37,6 +37,7 @@
 </div>
 
 <h1 align="">Minhas Skills</h1> 
+
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![Julia](https://img.shields.io/badge/-Julia-0D1117?style=for-the-badge&logo=julia&labelColor=0D1117)&nbsp;
 ![Lua](https://img.shields.io/badge/-Lua-0D1117?style=for-the-badge&logo=lua&labelColor=0D1117)&nbsp;
