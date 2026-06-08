@@ -61,7 +61,7 @@
 
 
 <div align="center">
-  <img width="250px" src="[https://media.tenor.com/7M2W4l6Q4mAAAAAi/hello-kitty-hello.gif](https://www.bing.com/images/search?view=detailV2&ccid=P%2f2phVta&id=7D9FA429699D4A1F2CC91BACA9AAB6CA0A7CD25E&thid=OIP.P_2phVtaQL6aCbYRuhYbFAHaHa&mediaurl=https%3a%2f%2fmedia.tenor.com%2fSGKP3L2OUoMAAAAC%2fhello-kitty.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.3ffda9855b5a40be9a09b611ba161b14%3frik%3dXtJ8Csq2qqmsGw%26pid%3dImgRaw%26r%3d0&exph=498&expw=498&q=gif+hello+kitty&FORM=IRPRST&ck=2A9582138D47918ED43675D13BDFAFF2&selectedIndex=0&itb=0&idpp=overlayview&ajaxhist=0&ajaxserp=0)">
+  <img width="250px" src="https://tenor.com/pt-BR/view/hello-kitty-gif-24637542">
 </div>
 
 
