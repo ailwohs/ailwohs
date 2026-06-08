@@ -83,10 +83,7 @@
 
 
 
-![Julia GitHub stats](https://github-readme-stats.vercel.app/api?username=ailwohs&show_icons=true&theme=tokyonight)
-
-
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b3ccff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+é+a+Julha+:%29)](https://git.io/typing-svg)
 
 
 
