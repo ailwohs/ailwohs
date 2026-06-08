@@ -77,7 +77,17 @@
 
 
 
+<div align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=ailwohs&show_icons=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117"
+  />
 
+  <img
+    width="41%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ailwohs&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117"
+  />
+</div>
 
 
 
