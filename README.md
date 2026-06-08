@@ -64,6 +64,11 @@
   <img width="250px" src="https://tenor.com/pt-BR/view/hello-kitty-gif-24637542">
 </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b965e0&height=120&section=footer"/>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b965e0&height=120&section=footer"/>
+
 
 ###
 
