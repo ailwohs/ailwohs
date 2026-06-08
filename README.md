@@ -64,11 +64,14 @@
   <img width="250px" src="https://tenor.com/pt-BR/view/hello-kitty-gif-24637542">
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b965e0&height=120&section=footer"/>
 
+<div align="center">
+  <img height="200em" alt="Hello Kitty" src="https://media.tenor.com/SGKP3L2OUoMAAAAC/hello-kitty.gif">
+</div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b965e0&height=120&section=footer"/>
-
+<div>
+  <img align="right" height="150em" alt="sasuke" src="https://images-ext-1.discordapp.net/external/xvMDSQ5-SSS5ETWTTABekz8Y2FZXImnaW8N3vdW_lIc/https/gifdb.com/images/high/sasuke-eternal-sharingan-rlf5nrllu25m0bvv.gif?width=842&height=473">
+</div>
 
 ###
 
