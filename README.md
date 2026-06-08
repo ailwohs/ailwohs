@@ -2,12 +2,12 @@
 
 <h1 align="center">Hi, I'm Julha Leithold</h1> 
 
-<!-- <div>
+ <div>
   <a href="https://github.com/ailwohs">
     <img style="margin-right: 10px;" height="180em" src="https://github-readme-stats.vercel.app/api?username=ailwohs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailwohs&layout=compact&langs_count=4&theme=dracula"/>
   </a>
-</div> !-->
+</div> 
 
 
 <!-- GITSTATES  !-->
